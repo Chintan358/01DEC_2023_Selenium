@@ -1,0 +1,14 @@
+package basic;
+
+public class B002_Datatypes {
+	public static void main(String[] args) {
+		
+		byte b = 124;
+		short s = 2656;
+		
+		
+		
+		
+		
+	}
+}
