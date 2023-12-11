@@ -45,11 +45,36 @@ lowercase letters a-z digits 0-9, and two special characters
  ********************************
  Oprators : 
  *******************************
- Arithmatic
- logical
- relational
- unary
- turnary
+Arithmatic : 
++,-,*,/,%
+
+Unary :
+++pre,--pre, post++, post--
+
+Relational : 
+==,<,>,<=,>=, !=
+
+Logical : 
+&&, ||
+
+Turnary : 
+
+coditon ? true : false
+
+*******************************************
+Statemetns : 
+******************
+condtional : 
+if-else
+switch-case
+
+looping : 
+for
+while
+do-whie
+
+ 
+ 
  
  
  
