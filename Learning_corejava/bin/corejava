@@ -74,6 +74,10 @@ while
 do-whie
 
  
+int a
+int b
+int c = 1,2,3,4
+
  
  
  
