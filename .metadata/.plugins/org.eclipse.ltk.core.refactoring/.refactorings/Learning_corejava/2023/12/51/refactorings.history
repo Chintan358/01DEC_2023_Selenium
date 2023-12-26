@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;array.A001_&apos; to &apos;A001_ArrayDemo&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Original element: &apos;array.A001_&apos;&#x0D;&#x0A;- Renamed element: &apos;array.A001_ArrayDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;A001_&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;array{A001_.java[A001_" matchStrategy="1" name="A001_ArrayDemo" qualified="false" references="true" similarDeclarations="false" stamp="1702892766606" textual="false" version="1.0"/>
+</session>

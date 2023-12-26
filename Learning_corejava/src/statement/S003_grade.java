@@ -5,9 +5,12 @@ import java.util.Scanner;
 public class S003_grade {
 	public static void main(String[] args) {
 		  
+		int marks = 0;
+		do
+		{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Marks : ");
-		int marks = sc.nextInt();
+		marks= sc.nextInt();
 		
 		if(marks>90 && marks<=100)
 		{
@@ -25,7 +28,7 @@ public class S003_grade {
 		{
 			System.out.println("Grade D");
 		}
-		else if(marks>=0 && marks<=34)
+		else if(marks>0 && marks<=34)
 		{
 			System.out.println("Grade F");
 		}
@@ -33,6 +36,7 @@ public class S003_grade {
 		{
 			System.out.println("Invalid input");
 		}
+		}while(marks!=0);
 		
 	}
 }

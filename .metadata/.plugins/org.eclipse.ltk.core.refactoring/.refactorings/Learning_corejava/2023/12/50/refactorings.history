@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;statement.S006_ForLoiop&apos; to &apos;S006_ForLoop&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Original element: &apos;statement.S006_ForLoiop&apos;&#x0D;&#x0A;- Renamed element: &apos;statement.S006_ForLoop&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;S006_ForLoiop&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;statement{S006_ForLoiop.java[S006_ForLoiop" matchStrategy="1" name="S006_ForLoop" qualified="false" references="true" similarDeclarations="false" stamp="1702632990679" textual="false" version="1.0"/>
+</session>
