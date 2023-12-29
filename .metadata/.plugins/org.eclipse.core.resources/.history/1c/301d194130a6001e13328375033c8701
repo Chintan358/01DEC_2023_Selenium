@@ -1,0 +1,21 @@
+package oops;
+
+class Calc
+{
+	public void display()
+	{
+		System.out.println("Runing display");
+	}
+}
+
+public class O003_MetodManipulation {
+	public static void main(String[] args) {
+		
+		Calc c = new Calc();
+		c.display();
+		
+		
+		
+		
+	}
+}

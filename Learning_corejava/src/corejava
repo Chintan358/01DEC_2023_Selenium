@@ -73,6 +73,48 @@ for
 while
 do-whie
 
+****************************
+array 
+**********************************
+OOPs : 
+
+class
+object
+inheritance
+encaptulation
+abstraction
+polymorphism
+
+
+*****************
+class  : logical entity
+
+
+object : real time entity
+
+state / variables / data memebr
+behaviour / method / function memeber
+
+method : 
+
+accessModifer returnType* methodName*(args)
+{
+	//body
+}
+
+Data member and function member can be of two types 
+static : create single copy in memory
+non static : create copy as per object
+
+
+
+
+
+
+
+
+
+
 
 
  

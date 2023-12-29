@@ -29,7 +29,14 @@ public class P8 {
 				
 				for(int i=1;i<=starCount;i++)
 				{
+					if(i==1 || i==starCount)
+					{
 					System.out.print("*");
+					}
+					else
+					{
+						System.out.print(" ");
+					}
 				}
 				System.out.println();
 				if(j<mid)

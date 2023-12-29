@@ -1,0 +1,49 @@
+package oops;
+
+class Calc
+{
+	public void display()
+	{
+		System.out.println("Runing display");
+	}
+	
+	public void square(int a)
+	{
+		int sq = a*a;
+		System.out.println("sq of "+a+" is "+sq);
+	}
+	
+	public void getMessage(String msg)
+	{
+		System.out.println("My name is : "+msg);
+	}
+	
+	public void add(int a, int b)
+	{
+		int r = a+b;
+		System.out.println("Result is : "+r);
+	}
+	
+	public int cube(int num)
+	{
+		int r = num*num*num;
+		return r;
+	}
+	
+	
+}
+
+public class O003_MetodManipulation {
+	public static void main(String[] args) {
+		
+		Calc c = new Calc();
+		c.display();
+		c.square(10);
+		c.square(5);
+		c.getMessage("Tops");
+		c.add(102, 10);
+		int r =  c.cube(10);
+		System.out.println(r);
+		System.out.println(c.cube(5));
+	}
+}
