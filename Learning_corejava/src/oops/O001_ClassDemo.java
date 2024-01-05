@@ -29,5 +29,8 @@ public class O001_ClassDemo {
 		p1.toWrite();  
 		
 		Pen.display();
+		
+		AccessModifier mod = new AccessModifier();
+		mod.display();	
 	}
 }

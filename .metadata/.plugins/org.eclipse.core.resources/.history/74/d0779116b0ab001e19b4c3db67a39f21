@@ -1,0 +1,13 @@
+package oops;
+
+public class O005_EncDemo {
+	public static void main(String[] args) {
+		
+			Emp e = new Emp();
+			
+			e.display();
+			
+		
+		
+	}
+}

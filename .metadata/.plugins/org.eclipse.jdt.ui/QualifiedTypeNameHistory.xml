@@ -5,4 +5,7 @@
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="oops.Pen"/>
     <fullyQualifiedTypeName name="oops.Student"/>
+    <fullyQualifiedTypeName name="oops.Calc"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="oops.Demo"/>
 </qualifiedTypeNameHistroy>

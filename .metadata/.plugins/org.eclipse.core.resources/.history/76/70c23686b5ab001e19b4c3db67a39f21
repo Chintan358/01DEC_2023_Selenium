@@ -1,0 +1,23 @@
+package oops;
+
+class P
+{
+	public void display()
+	{
+		System.out.println("runinng P class display");
+	}
+}
+
+class Q extends P
+{
+	
+}
+
+public class O008_MethodOverriding {
+	public static void main(String[] args) {
+		
+		Q q = new Q();
+		q.display();
+		
+	}
+}
