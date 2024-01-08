@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;impclass.I0003_StringSB&apos; to &apos;I003_StringSB&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Original element: &apos;impclass.I0003_StringSB&apos;&#x0D;&#x0A;- Renamed element: &apos;impclass.I003_StringSB&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;I0003_StringSB&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;impclass{I0003_StringSB.java[I0003_StringSB" matchStrategy="1" name="I003_StringSB" qualified="false" references="true" similarDeclarations="false" stamp="1704710836751" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+package impclass;
+
+class D
+{
+	
+}
+
+public class I004_ObjectDemo {
+	public static void main(String[] args) {
+		
+		D d = new D();
+		System.out.println(d);  
+		
+	}
+}

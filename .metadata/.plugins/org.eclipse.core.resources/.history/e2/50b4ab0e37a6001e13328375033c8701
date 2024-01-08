@@ -1,7 +1,0 @@
-package oops;
-
-public class O004_StaticDemo {
-	public static void main1(String[] args) {
-		System.out.println("hello");
-	}
-}

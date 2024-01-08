@@ -1,8 +1,8 @@
 package oops;
 
-class M
+/*final*/ class M
 {
-	public void print()
+	/* final */ public void print()
 	{
 		
 	}

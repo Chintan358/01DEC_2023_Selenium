@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="oops.Pen"/>
     <fullyQualifiedTypeName name="oops.Student"/>
     <fullyQualifiedTypeName name="oops.Calc"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="oops.Demo"/>
+    <fullyQualifiedTypeName name="oops.AccessModifier"/>
+    <fullyQualifiedTypeName name="oops.Emp"/>
+    <fullyQualifiedTypeName name="oops.B"/>
+    <fullyQualifiedTypeName name="oops.Calc1"/>
+    <fullyQualifiedTypeName name="oops.Q"/>
+    <fullyQualifiedTypeName name="oops.AbsImpl"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="impclass.D"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>

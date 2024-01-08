@@ -2,7 +2,7 @@ package oops;
 
 abstract class Abs
 {
-	public abstract void display();
+	 public abstract void display();
 	
 	public void run()
 	{

@@ -107,6 +107,16 @@ static : create single copy in memory
 non static : create copy as per object
 
 
+***********************
+Imp classes
+
+String
+String bufeer
+String builder
+Object
+Wrapper
+
+
 
 
 

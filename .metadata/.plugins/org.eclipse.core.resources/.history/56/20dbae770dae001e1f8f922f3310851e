@@ -1,0 +1,13 @@
+package impclass;
+
+public class I001_StringDemo {
+	public static void main(String[] args) {
+		
+		
+		String s = "hello";
+		s.concat("Java");
+		//String str = new String("hello");
+		System.out.println(s);
+		
+	}
+}
