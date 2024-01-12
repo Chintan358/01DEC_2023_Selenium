@@ -116,6 +116,34 @@ String builder
 Object
 Wrapper
 
+**************************
+exeption handling
+**********************
+abnormal condition accures during executio of program 
+
+compiletime exeption
+runtime exeption
+
+file io
+*********************************
+file input and file output
+
+Stream = flow of data
+
+byte
+FileInputStream
+FileOutputStream
+
+char
+FileWrite
+FileReader
+
+multithreading
+collection
+
+
+
+
 
 
 
