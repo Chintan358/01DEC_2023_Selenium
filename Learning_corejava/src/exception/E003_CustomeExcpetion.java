@@ -1,5 +1,7 @@
 package exception;
 
+import java.util.Scanner;
+
 class InSufficeintAmountExeption extends Exception
 {
 	
@@ -9,8 +11,14 @@ class Bank
 {
 	double balance;
 	
+	
+	
+	
 	public void getBalance()
 	{
+		
+		Scanner sc = new Scanner(System.in);
+		balance = sc.nextDouble();
 		System.out.println("Current balance is : "+balance);
 	}
 	
@@ -35,6 +43,8 @@ class Bank
 
 public class E003_CustomeExcpetion {
 	public static void main(String[] args) {
+		
+		
 		
 		Bank b = new Bank();
 		b.getBalance();
