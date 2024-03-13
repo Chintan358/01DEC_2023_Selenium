@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite parallel="none" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listener.MyTestListener"/>
+  </listeners>
   <test parallel="none" name="Test(failed)">
     <classes>
-      <class name="basic.ParametersTest">
+      <class name="basic.Multi_ParametersTest2">
         <methods>
-          <include name="login"/>
+          <include name="login" invocation-numbers="0 1 2 3"/>
+          <include name="setup"/>
+          <include name="finish"/>
         </methods>
-      </class> <!-- basic.ParametersTest -->
+      </class> <!-- basic.Multi_ParametersTest2 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
