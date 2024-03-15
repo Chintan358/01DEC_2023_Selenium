@@ -5,10 +5,16 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExcellReader {
 	
-		String sheetPath = "C:\\Users\\pc\\Desktop\\Test\\mytest.xlsx";
-		String sheetName = "login";
+		String sheetPath;
+		String sheetName;
 		
 		
+		public ExcellReader(String sheetPath, String sheetName) {
+			super();
+			this.sheetPath = sheetPath;
+			this.sheetName = sheetName;
+		}
+
 		public int rowCount()
 		{
 			int row = 0;
