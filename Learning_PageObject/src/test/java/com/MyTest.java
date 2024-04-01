@@ -10,7 +10,7 @@ public class MyTest extends Driverconnection {
 	
 	public void login()
 	{
-		  driver  = connect();
+		 driver = connect();
 		//LoginPage login  = new LoginPage(driver);
 		
 		LoginPageFactory login = new LoginPageFactory(driver);

@@ -1,0 +1,9 @@
+15:43:07.817 [main] INFO  com.MyTest - This is information message
+15:43:07.821 [main] DEBUG com.MyTest - debug message
+15:43:07.821 [main] ERROR com.MyTest - This is error message
+15:43:07.821 [main] FATAL com.MyTest - This is fatel error
+15:43:32.972 [main] INFO  com.MyTest - This is information message
+15:43:32.976 [main] DEBUG com.MyTest - debug message
+15:43:32.976 [main] ERROR com.MyTest - This is error message
+15:43:32.977 [main] FATAL com.MyTest - This is fatel error
+15:43:34.463 [main] INFO  com.MyTest - This is information message
